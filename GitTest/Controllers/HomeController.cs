@@ -17,7 +17,7 @@ namespace GitTest.Controllers
         public ActionResult About()
         {
 
-            ViewBag.Message = "Your avvv application description page.";
+            ViewBag.Message = "Your av b  vv application description page.";
 
             return View();
         }
