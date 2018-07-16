@@ -17,7 +17,7 @@ namespace GitTest.Controllers
         public ActionResult About()
         {
 
-            ViewBag.Message = "Worked on postnl";
+            ViewBag.Message = "Feature branch for labelling kiosk.. some more work";
 
             return View();
         }
